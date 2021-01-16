@@ -1,0 +1,7 @@
+.label {
+    -fx-font-size:16;
+    -fx-background-color: Black;
+    -fx-text-fill: White;
+    -fx-effect:dropshadow(one-pass-box,black,8,0.0,2,0);
+    -fx-border-radius: 30;
+}

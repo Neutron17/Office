@@ -5,6 +5,7 @@ import java.awt.SystemTray
 import java.awt.Toolkit
 import java.awt.TrayIcon
 
+/** @author Neutron17 */
 class ECT {
     @Throws(AWTException::class)
     fun notification(caption:String,text:String,iconPath:String) {
