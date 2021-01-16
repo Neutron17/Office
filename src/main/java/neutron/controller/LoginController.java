@@ -11,12 +11,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
 
-/**
-* @param name henlo
-* @retunr
-*
- */
-
 public class LoginController implements Initializable {
     @FXML
     PasswordField passPassField = new PasswordField();
